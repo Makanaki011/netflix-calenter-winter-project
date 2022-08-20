@@ -1,0 +1,105 @@
+
+*{
+    padding: 0;
+    margin: 0;
+
+}
+
+body{
+    margin: 100px 400px;
+    border: 2px solid green;
+    height: 355px;
+    width: fit-content;
+    padding-bottom: 30px;
+    /* opacity: 0.4; */
+}
+
+nav{
+    display: flex;
+    
+}
+
+ul{
+    flex: 1;
+    list-style: none;
+    text-align: right;
+    margin-right: 30px;
+    margin-top: 20px;
+    color: red;
+    font-size: 1.2em;
+    font-weight: bolder;
+    display: inline-block;
+    /* background-color: red; */
+
+    
+    
+
+    /* display: inline-block; */
+    /* border: 2px solid red; */
+    /* width: 400px; */
+    
+
+    
+}
+
+.uii{
+    margin-left: 20px;
+    margin-top: 20px;
+    color: red;
+    font-weight: bolder;
+    font-size: 2em;
+    
+}
+
+.cen{
+    text-align: center;
+    margin-top: 40px;
+    padding: 10px;
+    color: white;
+    font-weight: bolder;
+    font-size: 0.99em;
+}
+
+.dee{
+    padding: 8px;
+    
+    
+}
+
+
+
+label{
+    border: 2px solid red;
+    padding: 8px 6px;
+    background-color: red;
+    /* position: relative; */
+    /* left:10px;
+    bottom: 1px; */
+    color: white;
+
+}
+
+input{
+    padding: 13px;
+    width: 350px;
+
+}
+
+.imhh{
+    background-image: url(https://infoguidenigeria.com/wp-content/uploads/2021/10/netflix-library-photo-scaled-1.jpg);
+  
+    height: 400px;
+    width: 800px;
+    font-family: 'Bebas Neue', cursive;
+
+    font-family: 'Kanit', sans-serif;
+    
+    
+}
+
+/* .sig{
+    /* border: 2px solid red; */
+    
+    
+/* } */ 
+
